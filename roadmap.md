@@ -1,0 +1,4 @@
+- [x] Change the name beside the logo to bold black MK TRADERS.
+- [x] Confirm the website renders with no browser errors; the editor's "Client cancelled" preview requires a refresh in Lovable.
+- [x] Export the site as a downloadable ZIP with real image files so it builds outside Lovable.
+- [ ] Connect the project to GitHub so the source can be pulled from a repository. Blocked: only the owner can authorize the connection in Project settings → Git.
